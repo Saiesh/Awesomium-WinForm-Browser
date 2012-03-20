@@ -1,0 +1,17 @@
+This is a chrome based web-browser that has limited fuctionality .
+
+Features :
+
+- Tabbed Browsing
+- Back , Forward , Refresh Buttons
+- History
+
+External Resources :
+
+- Aweomium Web-Browser Framework
+- Teleric Rad Forms (For enhanced UI . Not mandatory)
+
+NOTE : Working to add in more features like downloads and Bookmarking .
+
+
+AUTHOR : Saiesh.N <saiesh.nat@gmail.com>
