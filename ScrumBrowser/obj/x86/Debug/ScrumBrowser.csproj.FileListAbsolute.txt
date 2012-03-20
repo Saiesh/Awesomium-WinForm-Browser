@@ -1,0 +1,15 @@
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\bin\Debug\ScrumBrowser.exe
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\bin\Debug\ScrumBrowser.pdb
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.Properties.Resources.resources
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.exe
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.pdb
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.MainForm.resources
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.Browser.resources
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.History.resources
+C:\Users\Saiesh Natarajan\Desktop\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.UserControl1.resources
+C:\Users\Saiesh Natarajan\Desktop\Projects\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.exe
+C:\Users\Saiesh Natarajan\Desktop\Projects\ScrumBrowser\ScrumBrowser\obj\x86\Debug\ScrumBrowser.pdb
